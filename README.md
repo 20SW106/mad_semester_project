@@ -1,4 +1,4 @@
-# mad_semester_project
+# mad_semester_project_20SW106
 Interactive Digitalized MUET Jamshoro Admission Form Filling &amp; Generator
 
 Here is the drive link to my MAD semester project:
